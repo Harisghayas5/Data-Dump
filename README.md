@@ -1,6 +1,6 @@
 # Data-Dump
 
-<img src="https://i.imghippo.com/files/J5uhZ1725661537.svg" width="50%">
+<img src="https://i.imghippo.com/files/J5uhZ1725661537.svg" width="50%" align="center">
 
 Why not use free web service that can get your work done for free? 
 
