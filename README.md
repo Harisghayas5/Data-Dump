@@ -1,6 +1,6 @@
 # Data-Dump
 
-![Alt text]("https://www.imghippo.com/i/2ZOFq1725659865.gif")
+
 
 Why not use free web service that can get your work done for free? 
 
