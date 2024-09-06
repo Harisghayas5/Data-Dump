@@ -1,6 +1,6 @@
 # Data-Dump
 
-
+<img src="Assets/hacktober-logo.svg" width="30%">
 
 Why not use free web service that can get your work done for free? 
 
