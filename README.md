@@ -20,7 +20,9 @@ Why not use free web service that can get your work done for free?
 
 6) For free web development platform? Use [stackblitz.com] or [codepen.io.]
 
-7) For applying higher resolution to your image files like diagrams, graphs, charts, or your own photos! Try "Upscaler.com".
+7) For uploading your images for link them with HTML..? Try imghippo. [https://www.imghippo.com/]
+
+8) For applying higher resolution to your image files like diagrams, graphs, charts, or your own photos! Try "Upscaler.com".
 [https://imgupscaler.com/]
 
 9) For using alternative of linux environment? Use WSL(windows subsystems for linux) in your usual windows 10 or updated ! Here's how › [https://learn.microsoft.com/en-us/windows/wsl/install#install-wsl-command]
