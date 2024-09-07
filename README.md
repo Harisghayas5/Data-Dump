@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.imghippo.com/files/eXdNw1725727788.png" width="50%"></p>
 
-Why not use free web service that can get your work done for free? 
+Why not use some free web services that can get your work done for free? 
 
 
 1) For resume/CV making? Use:[Grammerly.com]
